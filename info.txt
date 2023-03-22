@@ -1,0 +1,7 @@
+firstName: Jane 
+lastName: Smith 
+age: 30 
+City: Johannesburg 
+college: Boston college 
+course: Diploma in Computer Science 
+year: third year
